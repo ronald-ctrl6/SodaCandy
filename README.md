@@ -1,7 +1,7 @@
 # Soda Candy — Sistema Web Transaccional de Gestión de Pedidos y Ventas
 
-Proyecto Final · Aplicación Web con Java y Spring Boot
-Universidad Fidelitas
+Proyecto Final · Aplicación Web con Java y Spring Boot · 
+Universidad Fidelitas · 
 Link oficial del proyecto https://github.com/Michelle670/SodaCandy
 
 ---
